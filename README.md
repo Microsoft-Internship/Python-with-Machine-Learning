@@ -1,8 +1,7 @@
 # Python-with-Machine-Learning
 BITS PILANI-Proposal for IBM Training and Internship Program
 
-
-FIND THE BELOW ATTACHMENTS FOR REFERENCE;
+REFERENCE:
 
 * First month: IBM training has been designed in the form of Live lectures along with live mentorship from industry professionals which is conducted in the IBM Portal. ( Login credentials will be provided to students after registration )
 
